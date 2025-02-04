@@ -1,1 +1,1 @@
-# Computer_Graphics_Group_9
+# Computer Graphics
